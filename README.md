@@ -171,24 +171,6 @@ resource usage.
    extension. Many websites used varied techniques in getting users to input credentials and
    our extension had to be designed to facilitate the vast majority of them.
 
-## Contributions
-
--   **Tahmid Haque**
-    -   Completed most of the frontend (all but Settings feature and Apollo configurations)
-    -   Refactored queries / mutations and added JWT blacklisting on the backend
-    -   Implemented the entire encryption scheme
-    -   Built the GitHub workflows
-    -   Configured the VM, DNS and Docker compose files
-    -   Worked on developing an encryption scheme
--   **Junaid Syed**
-    -   Completed most of the backend (all but JWT blacklisting)
-    -   Added Apollo configurations and queries to frontend
-    -   Added Docker files for frontend and backend
-    -   Worked on developing an encryption scheme
--   **Raisa Haque**
-    -   Completed the entirety of the Chrome extension
-    -   Built the settings feature on the frontend
-
 # One more thing?
 
 This was a fun project and we all feel that we learned a lot throughout its course!
